@@ -1,0 +1,15 @@
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/bin/Debug/net7.0/LibrarySystem
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/bin/Debug/net7.0/LibrarySystem.deps.json
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/bin/Debug/net7.0/LibrarySystem.runtimeconfig.json
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/bin/Debug/net7.0/LibrarySystem.dll
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/bin/Debug/net7.0/LibrarySystem.pdb
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.csproj.AssemblyReference.cache
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.AssemblyInfoInputs.cache
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.AssemblyInfo.cs
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.dll
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/refint/LibrarySystem.dll
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.pdb
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/LibrarySystem.genruntimeconfig.cache
+/Users/tomk/Projects/LibrarySystem/LibrarySystem/obj/Debug/net7.0/ref/LibrarySystem.dll

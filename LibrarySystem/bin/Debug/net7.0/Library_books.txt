@@ -1,0 +1,12 @@
+1984|George Orwell|On Shelf|
+To Kill a Mockingbird|Harper Lee|On Shelf|
+The Great Gatsby|F. Scott Fitzgerald|On Shelf|
+Harry Potter and the Sorcerer's Stone|J.K. Rowling|On Shelf|
+The Hobbit|J.R.R. Tolkien|On Shelf|
+Moby Dick|Herman Melville|On Shelf|
+Pride and Prejudice|Jane Austen|On Shelf|
+The Catcher in the Rye|J.D. Salinger|On Shelf|
+The Fellowship of the Ring|J.R.R. Tolkien|On Shelf|
+High-Performance Programming in C#|Jason Alls|On Shelf|
+The Twelve Chairs|Ilya Ilf and Yevgeny Petrov|On Shelf|
+Brave New World|Aldous Huxley|On Shelf|
